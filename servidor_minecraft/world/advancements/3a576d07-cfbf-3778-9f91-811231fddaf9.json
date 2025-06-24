@@ -627,73 +627,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-24 01:46:59 +0000"
+      "log_spam_fixer": "2025-06-24 02:07:01 +0000"
     },
     "done": false
   },
@@ -772,12 +772,6 @@
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2025-06-24 01:41:35 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-06-24 01:45:51 +0000"
     },
     "done": true
   },
@@ -3006,6 +3000,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 23:50:42 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_chicken_nugget": {
+    "criteria": {
+      "obtain": "2025-06-24 01:48:08 +0000"
     },
     "done": true
   },
