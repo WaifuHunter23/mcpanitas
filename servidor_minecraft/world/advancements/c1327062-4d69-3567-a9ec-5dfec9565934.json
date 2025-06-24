@@ -1360,12 +1360,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-06-24 01:26:59 +0000"
-    },
-    "done": false
-  },
   "mcwbridges:recipes/rope_jungle_bridge": {
     "criteria": {
       "has_planks": "2025-06-23 23:55:23 +0000"
@@ -1414,9 +1408,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-24 01:00:04 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-06-24 01:41:28 +0000"
     },
     "done": true
   },
@@ -1534,6 +1540,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_masters_bow": {
     "criteria": {
       "has_rabbit_hide": "2025-06-23 23:24:00 +0000"
@@ -1636,6 +1654,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
@@ -1732,6 +1756,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-23 23:27:14 +0000"
@@ -1741,6 +1771,12 @@
   "mcwbridges:recipes/dry_bamboo_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-24 00:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -1895,6 +1931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-23 23:24:27 +0000"
@@ -2039,6 +2081,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 23:26:24 +0000"
@@ -2180,6 +2228,13 @@
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-23 23:54:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_the_recipe": "2025-06-24 01:43:01 +0000",
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -2507,6 +2562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/bamboo": {
     "criteria": {
       "has_wood": "2025-06-24 00:27:23 +0000"
@@ -2546,6 +2607,12 @@
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-23 23:44:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -3293,6 +3360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/spelunker_armor_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 23:26:24 +0000"
@@ -3699,6 +3772,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
     "criteria": {
       "has_chain": "2025-06-23 23:26:13 +0000"
@@ -3831,7 +3910,8 @@
       "cooked_beef": "2025-06-23 23:28:10 +0000",
       "porkchop": "2025-06-24 01:26:11 +0000",
       "tropical_fish": "2025-06-24 00:30:21 +0000",
-      "bread": "2025-06-23 23:49:29 +0000"
+      "bread": "2025-06-23 23:49:29 +0000",
+      "carrot": "2025-06-24 01:31:54 +0000"
     },
     "done": false
   },
@@ -3856,6 +3936,12 @@
   "betternether:recipes/decorations/cherry_chair": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -3961,6 +4047,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/taburet_cincinnasite": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
@@ -4012,6 +4104,12 @@
   "bclib:recipes/tools/tag_compass": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-06-23 23:26:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -4198,6 +4296,12 @@
   "terrestria:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-24 01:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -4508,6 +4612,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-06-23 23:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -4890,6 +5000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-06-24 01:19:57 +0000"
@@ -4956,6 +5072,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
@@ -4998,6 +5120,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2025-06-23 23:26:13 +0000"
@@ -5031,6 +5159,18 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-06-23 23:24:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -5133,6 +5273,12 @@
   "betterend:recipes/decorations/tenanea_chair": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -5256,6 +5402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_orange": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
@@ -5277,6 +5429,12 @@
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -5319,6 +5477,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-24 00:27:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -5622,6 +5786,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-23 23:28:10 +0000"
@@ -5706,9 +5876,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sweet_tooth_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/terralith/cave/underground_jungle": {
+    "criteria": {
+      "requirement": "2025-06-24 01:33:27 +0000"
     },
     "done": true
   },
@@ -6024,6 +6206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-24 01:31:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_table": {
     "criteria": {
       "has_planks": "2025-06-24 01:18:38 +0000"
@@ -6129,6 +6317,12 @@
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-23 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
@@ -6273,6 +6467,12 @@
   "another_furniture:recipes/spruce_chair": {
     "criteria": {
       "has_planks": "2025-06-23 23:44:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-24 01:43:01 +0000"
     },
     "done": true
   },
