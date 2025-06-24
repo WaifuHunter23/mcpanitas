@@ -36,3 +36,52 @@
 [00:15:59] [Netty Epoll Server IO #4/ERROR]: Main-hand stack: 0 air
 [00:15:59] [Netty Epoll Server IO #4/ERROR]: Off-hand stack: 0 air
 [00:15:59] [Netty Epoll Server IO #4/ERROR]: Selected slot server: 1 | client: 1
+[00:18:49] [Server thread/INFO]: ZaxT3r has made the advancement [Voluntary Exile]
+[00:19:31] [Server thread/INFO]: ZaxT3r was shot by Pillager using [Chainfiring Crossbow]
+[00:19:31] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1167, 64, -542
+[00:21:48] [Server thread/INFO]: ZaxT3r was shot by Pillager
+[00:21:48] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1187, 61, -430
+[00:22:37] [Server thread/INFO]: ZaxT3r drowned
+[00:22:37] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1200, 60, -445
+[00:26:31] [Server thread/INFO]: ZaxT3r was shot by Pillager using [Chainfiring Crossbow]
+[00:26:31] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1153, 64, -545
+[00:27:56] [Server thread/WARN]: SamKillU moved too quickly! -9.06333965638396,1.4235592945430398,4.572606034175578
+[00:27:56] [Server thread/WARN]: ZaxT3r moved too quickly! -6.928214862184859,-1.0,7.370521006279944
+[00:27:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4410ms or 88 ticks behind
+[00:28:39] [Server thread/WARN]: SamKillU moved too quickly! 5.051524734891473,-0.7461092740512356,9.03344422601208
+[00:29:18] [Server thread/INFO]: [Not Secure] <SamKillU> zzzzzzzz
+[00:32:33] [Server thread/INFO]: ZaxT3r was shot by Pillager
+[00:32:33] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1136, 78, -479
+[00:33:24] [Server thread/INFO]: ZaxT3r has made the advancement [Disme A Dozen]
+[00:34:23] [Server thread/INFO]: ZaxT3r was shot by Pillager
+[00:34:23] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1130, 68, -492
+[00:35:40] [Server thread/ERROR]: Unable to fill loot chest in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1135, y=65, z=-524} as the loot table 'terralith:village/desert/shepherd' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[00:35:40] [Server thread/INFO]: SamKillU has made the advancement [Close Quarters]
+[00:35:46] [Server thread/INFO]: ZaxT3r was shot by Pillager
+[00:35:46] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1120, 66, -506
+[00:36:37] [Server thread/INFO]: SamKillU was shot by Pillager
+[00:36:37] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1140, 67, -492
+[00:37:05] [Server thread/INFO]: ZaxT3r was shot by Pillager
+[00:37:05] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1145, 65, -471
+[00:37:46] [Server thread/INFO]: SamKillU was shot by Pillager
+[00:37:46] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1139, 65, -492
+[00:38:32] [Server thread/INFO]: SamKillU was shot by Pillager
+[00:38:32] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1141, 66, -500
+[00:39:46] [Server thread/INFO]: SamKillU was shot by Pillager
+[00:39:46] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1141, 65, -492
+[00:42:37] [Server thread/INFO]: SamKillU was shot by Pillager
+[00:42:37] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1131, 65, -480
+[00:42:42] [Server thread/INFO]: ZaxT3r was shot by Pillager using [Chainfiring Crossbow]
+[00:42:42] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1122, 66, -475
+[00:43:12] [Server thread/INFO]: SamKillU was shot by Pillager using [Chainfiring Crossbow]
+[00:43:12] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1138, 66, -482
+[00:43:54] [Server thread/INFO]: ZaxT3r was shot by Pillager
+[00:43:54] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1156, 57, -422
+[00:49:30] [Server thread/INFO]: Villager class_1646['Shawn'/13082, l='ServerLevel[world]', x=1106.48, y=65.00, z=-556.20] died, message: 'Shawn was shot by Pillager using [Chainfiring Crossbow]'
+[00:49:30] [Server thread/INFO]: Named entity class_1646['Shawn'/13082, l='ServerLevel[world]', x=1106.48, y=65.00, z=-556.20] died: Shawn was shot by Pillager using [Chainfiring Crossbow]
+[00:50:55] [Server thread/INFO]: SamKillU was shot by Pillager
+[00:50:55] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1121, 65, -488
+[00:51:04] [Server thread/WARN]: ZaxT3r moved too quickly! -7.242599722434761,0.28685247679948134,6.9895243055945
+[00:51:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[00:52:24] [Server thread/INFO]: ZaxT3r was shot by Pillager
+[00:52:24] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1128, 66, -445
