@@ -225,3 +225,279 @@
 [02:46:32] [Server thread/INFO]: [Not Secure] <SamKillU> hay como 1237123713713 biomaws
 [02:46:54] [Server thread/INFO]: [Not Secure] <SamKillU> cogemos lo importanto, buscamos un waypoint de aldea
 [02:47:26] [Server thread/INFO]: [Not Secure] <SamKillU> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[02:48:48] [Server thread/INFO]: [Not Secure] <SamKillU> de que son
+[02:48:52] [Server thread/INFO]: [Not Secure] <SamKillU> pa darte material}
+[02:48:58] [Server thread/INFO]: [Not Secure] <ZaxT3r> de hierro y el ore marron ese xd
+[02:49:10] [Server thread/INFO]: [Not Secure] <SamKillU> cobre
+[02:49:12] [Server thread/INFO]: [Not Secure] <SamKillU> yerda
+[02:49:21] [Server thread/INFO]: [Not Secure] <SamKillU> vamonos
+[02:49:28] [Server thread/INFO]: [Not Secure] <SamKillU> y encotrnmaos otra aldea de waypoint
+[02:50:41] [Server thread/INFO]: [Not Secure] <SamKillU> yega
+[02:50:47] [Server thread/INFO]: [Not Secure] <ZaxT3r> pera
+[02:53:40] [Server thread/INFO]: [Not Secure] <SamKillU> no bajes
+[02:53:43] [Server thread/INFO]: [Not Secure] <ZaxT3r> xddddddddd
+[02:53:51] [Server thread/INFO]: [Not Secure] <SamKillU> nojoda
+[02:54:46] [Server thread/INFO]: ZaxT3r has made the advancement [Penteconter]
+[02:56:50] [Server thread/INFO]: [Not Secure] <SamKillU> hey
+[02:56:50] [Server thread/INFO]: [Not Secure] <ZaxT3r> lagggggg
+[02:56:50] [Server thread/INFO]: [Not Secure] <SamKillU> hace lag
+[02:56:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18647ms or 372 ticks behind
+[02:57:07] [Server thread/INFO]: [Not Secure] <SamKillU> spanearon 39 venecos
+[02:57:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5174ms or 103 ticks behind
+[02:57:40] [Server thread/WARN]: SamKillU moved wrongly!
+[02:57:42] [Server thread/INFO]: SamKillU was slain by Cave Spider
+[02:57:42] [Server thread/INFO]: Created new backpack backup file for SamKillU with unique ID travelersbackpack.iron_24.06.2025-02.57.42.dat
+[02:57:42] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1800, 63, -242
+[02:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4820ms or 96 ticks behind
+[02:57:54] [Server thread/INFO]: [Not Secure] <ZaxT3r> CUKLE LAAGG
+[02:58:02] [Server thread/INFO]: [Not Secure] <SamKillU> si weon
+[02:58:04] [Server thread/INFO]: [Not Secure] <SamKillU> me mori
+[02:58:37] [Server thread/INFO]: Named entity class_1628['Grumm'/113853, l='ServerLevel[world]', x=1800.47, y=66.15, z=-240.53] died: Grumm was slain by ZaxT3r
+[03:00:00] [Server thread/WARN]: SamKillU moved too quickly! 10.019053242556083,0.0,0.120779713613274
+[03:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4422ms or 88 ticks behind
+[03:00:33] [Server thread/WARN]: SamKillU moved too quickly! 9.107972742722723,-0.001335979112141672,4.579243557732184
+[03:00:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6276ms or 125 ticks behind
+[03:02:04] [Server thread/INFO]: [Not Secure] <SamKillU> vi una casa antes
+[03:02:23] [Server thread/INFO]: [Not Secure] <ZaxT3r> xd, me silenciaron
+[03:02:24] [Worker-Main-28/WARN]: Tried to access a block entity before it was created. class_2338{x=1751, y=69, z=23}
+[03:02:24] [Worker-Main-28/WARN]: Tried to access a block entity before it was created. class_2338{x=1751, y=69, z=23}
+[03:02:24] [Worker-Main-34/ERROR]: Couldn't load structure mvs:houses/large_floating_island
+net.minecraft.class_148: Loading NBT data
+	at net.minecraft.class_2487.method_10581(class_2487.java:506) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:71) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23249(class_2499.java:43) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2499$1.method_23262(class_2499.java:26) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:500) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23240(class_2487.java:71) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487$1.method_23262(class_2487.java:57) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10626(class_2507.java:147) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10625(class_2507.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10629(class_2507.java:36) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15090(class_3485.java:227) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44231(class_3485.java:217) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15088(class_3485.java:130) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_44245(class_3485.java:108) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
+	at net.minecraft.class_3485.method_15094(class_3485.java:98) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3485.method_15091(class_3485.java:86) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3781.method_27233(class_3781.java:81) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3781.method_16628(class_3781.java:115) ~[server-intermediary.jar:?]
+	at com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mvs-4.1.5-1.20.jar:?]
+	at com.finndog.mvs.world.structures.GenericJigsawStructure.method_38676(GenericJigsawStructure.java:213) ~[mvs-4.1.5-1.20.jar:?]
+	at net.minecraft.class_3195.method_47932(class_3195.java:199) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3195.method_41614(class_3195.java:125) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_41044(class_2794.java:513) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2794.method_41041(class_2794.java:466) ~[server-intermediary.jar:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.class_2794.method_16129(class_2794.java:448) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_39464(class_2806.java:54) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2806.method_12154(class_2806.java:252) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3898.method_17225(class_3898.java:684) ~[server-intermediary.jar:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar:?]
+	at net.minecraft.class_3898.method_17224(class_3898.java:673) ~[server-intermediary.jar:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.class_3900.method_17634(class_3900.java:62) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at net.minecraft.class_4614$1.method_39878(class_4614.java:58) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23264(class_4614.java:63) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4614$1.method_23262(class_4614.java:56) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2487.method_10581(class_2487.java:500) ~[server-intermediary.jar:?]
+	... 45 more
+[03:02:38] [Server thread/INFO]: Villager class_1646['Jae'/116233, l='ServerLevel[world]', x=1759.72, y=67.56, z=-41.37] died, message: 'Jae suffocated in a wall'
+[03:02:38] [Server thread/INFO]: Named entity class_1646['Jae'/116233, l='ServerLevel[world]', x=1759.72, y=67.56, z=-41.37] died: Jae suffocated in a wall
+[03:02:42] [Server thread/INFO]: [Not Secure] <SamKillU> llega
+[03:02:58] [Server thread/INFO]: [Not Secure] <SamKillU> mamaguevo
+[03:03:44] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:44] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:44] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:44] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:44] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-34/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-34/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-34/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-34/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-34/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-34/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-26/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-26/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-26/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-26/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:45] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:03:59] [Server thread/INFO]: Villager class_1646['Lina'/117012, l='ServerLevel[world]', x=1766.72, y=67.00, z=51.63] died, message: 'Lina suffocated in a wall'
+[03:03:59] [Server thread/INFO]: Named entity class_1646['Lina'/117012, l='ServerLevel[world]', x=1766.72, y=67.00, z=51.63] died: Lina suffocated in a wall
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:01] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:02] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:11] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:11] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:11] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:13] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:14] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:20] [Worker-Main-26/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:20] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:20] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:20] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:04:20] [Worker-Main-28/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:11:21] [Server thread/INFO]: Villager class_1646['Reyes'/122523, l='ServerLevel[world]', x=1732.30, y=67.00, z=93.84] died, message: 'Reyes was slain by Vindicator'
+[03:11:21] [Server thread/INFO]: Named entity class_1646['Reyes'/122523, l='ServerLevel[world]', x=1732.30, y=67.00, z=93.84] died: Reyes was slain by Vindicator
+[03:11:38] [Server thread/WARN]: ZaxT3r moved too quickly! 1.4584553250217596,-0.014617854037240363,9.962088953956602
+[03:11:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5386ms or 107 ticks behind
+[03:11:47] [Worker-Main-35/WARN]: Tried to access a block entity before it was created. class_2338{x=1830, y=68, z=286}
+[03:11:47] [Worker-Main-35/WARN]: Tried to access a block entity before it was created. class_2338{x=1830, y=68, z=286}
+[03:20:52] [Server thread/INFO]: Villager class_1646['Lory'/122522, l='ServerLevel[world]', x=1733.45, y=66.00, z=69.24] died, message: 'Lory was slain by Zombie'
+[03:20:52] [Server thread/INFO]: Named entity class_1646['Lory'/122522, l='ServerLevel[world]', x=1733.45, y=66.00, z=69.24] died: Lory was slain by Zombie
+[03:21:02] [Server thread/INFO]: Villager class_1646['Chuck'/128467, l='ServerLevel[world]', x=1754.92, y=-256.00, z=-143.79] died, message: 'Chuck was killed'
+[03:21:02] [Server thread/INFO]: Named entity class_1646['Chuck'/128467, l='ServerLevel[world]', x=1754.92, y=-256.00, z=-143.79] died: Chuck was killed
+[03:24:55] [Server thread/WARN]: SamKillU moved too quickly! 10.128006859938978,-0.033959405821519795,0.1918137334275798
+[03:24:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8585ms or 171 ticks behind
+[03:27:45] [Server thread/INFO]: SamKillU has made the advancement [Stay dead]
+[03:29:22] [Server thread/INFO]: SamKillU was slain by Vindicator
+[03:29:22] [Server thread/INFO]: Created new backpack backup file for SamKillU with unique ID travelersbackpack.iron_24.06.2025-03.29.22.dat
+[03:29:22] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1983, 66, 96
+[03:32:36] [Server thread/INFO]: SamKillU was slain by Vindicator
+[03:32:36] [Server thread/INFO]: Created new backpack backup file for SamKillU with unique ID travelersbackpack.iron_24.06.2025-03.32.36.dat
+[03:32:36] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 1982, 68, 132
+[03:35:54] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1970, y=75, z=112} as the loot table 'dungeons_arise:chests/illager_fortress_small' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[03:39:17] [Server thread/INFO]: ZaxT3r has reached the goal [Postmortal]
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:42:53] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:43:05] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:43:05] [Worker-Main-27/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:43:05] [Worker-Main-34/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3102ms or 62 ticks behind
+[03:45:39] [Worker-Main-26/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-662631791,59133557,-1145222210,-595015169],type:"minecraft:entity",y_offset:0.36f}}]
+[03:47:32] [Worker-Main-35/WARN]: Tried to access a block entity before it was created. class_2338{x=2493, y=68, z=83}
+[03:47:32] [Worker-Main-35/WARN]: Tried to access a block entity before it was created. class_2338{x=2493, y=68, z=83}
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[03:47:57] [Worker-Main-35/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[03:47:58] [Server thread/INFO]: SamKillU has made the advancement [Cobweb Entanglement]
+[03:47:59] [Server thread/INFO]: ZaxT3r has made the advancement [Cobweb Entanglement]
+[03:51:27] [Server thread/INFO]: SamKillU has made the advancement [Fine. B-L-A-D-E.]
+[03:59:16] [Server thread/INFO]: SamKillU has reached the goal [Postmortal]
+[03:59:58] [Server thread/WARN]: ZaxT3r moved too quickly! 8.028157400580767,-0.1199608614270602,6.4215569380509265
+[03:59:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[04:00:41] [Server thread/INFO]: Villager class_1646['Quintin'/151389, l='ServerLevel[world]', x=2458.87, y=64.94, z=69.56] died, message: 'Quintin was slain by Zombie Chef'
+[04:00:41] [Server thread/INFO]: Named entity class_1646['Quintin'/151389, l='ServerLevel[world]', x=2458.87, y=64.94, z=69.56] died: Quintin was slain by Zombie Chef
+[04:00:44] [Server thread/INFO]: SamKillU lost connection: Timed out
+[04:00:44] [Server thread/INFO]: SamKillU left the game
+[04:12:15] [Server thread/INFO]: ZaxT3r has made the advancement [Hot Stuff]
+[04:21:50] [Server thread/INFO]: ZaxT3r lost connection: Disconnected
+[04:21:50] [Server thread/INFO]: ZaxT3r left the game
