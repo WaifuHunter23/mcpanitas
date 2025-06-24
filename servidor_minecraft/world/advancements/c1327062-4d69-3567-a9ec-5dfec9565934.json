@@ -6694,11 +6694,65 @@
     },
     "done": true
   },
-  "mt:entity_hit_system/on_hit": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "not_target": "2025-06-24 02:25:03 +0000"
+      "requirement": "2025-06-24 02:47:01 +0000"
     },
     "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-06-24 02:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-24 02:41:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_iron_sword_var": {
+    "criteria": {
+      "has_iron_sword": "2025-06-24 02:37:43 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/kirkhammer": {
+    "criteria": {
+      "has_item": "2025-06-24 02:37:43 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive": {
+    "criteria": {
+      "has_the_recipe": "2025-06-24 02:37:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2025-06-24 02:27:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
+    "criteria": {
+      "has_iron_sword": "2025-06-24 02:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-06-24 02:41:10 +0000"
+    },
+    "done": true
+  },
+  "additionaladditions:obtain_glow_stick": {
+    "criteria": {
+      "obtain": "2025-06-24 02:37:46 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
