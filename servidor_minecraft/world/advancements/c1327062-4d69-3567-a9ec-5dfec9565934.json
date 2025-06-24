@@ -646,6 +646,7 @@
   },
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
+      "dagger": "2025-06-24 01:18:05 +0000",
       "mega_hammer": "2025-06-23 04:30:02 +0000",
       "chainfiring_crossbow": "2025-06-24 00:23:43 +0000"
     },
@@ -1359,6 +1360,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-24 01:26:59 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/rope_jungle_bridge": {
     "criteria": {
       "has_planks": "2025-06-23 23:55:23 +0000"
@@ -1410,12 +1417,6 @@
   "regions_unexplored:recipes/transportation/baobab_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-24 01:00:04 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-06-24 00:51:30 +0000"
     },
     "done": true
   },
@@ -1887,6 +1888,13 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-06-24 01:18:38 +0000",
+      "has_the_recipe": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-23 23:24:27 +0000"
@@ -2100,6 +2108,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-06-24 01:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -2319,11 +2333,23 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_desert": "2025-06-24 00:10:56 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
@@ -2538,6 +2564,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-23 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/asian_red_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -2787,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/longbows/bow_longbow": {
     "criteria": {
       "has_string": "2025-06-23 23:24:25 +0000"
@@ -2979,6 +3017,12 @@
     },
     "done": true
   },
+  "mcwpaths:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
     "criteria": {
       "has_core_specification_item": "2025-06-23 23:23:44 +0000"
@@ -3129,6 +3173,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/asian_red_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
@@ -3195,6 +3245,18 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_swift_striker": {
     "criteria": {
       "has_amethyst_shard": "2025-06-24 00:07:04 +0000"
@@ -3210,6 +3272,12 @@
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -3405,6 +3473,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_archer": {
     "criteria": {
       "has_core_specification_item": "2025-06-23 23:42:31 +0000"
@@ -3539,6 +3613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_dual": {
     "criteria": {
       "has_string": "2025-06-23 23:24:25 +0000"
@@ -3586,6 +3666,12 @@
       "has_logs": "2025-06-23 23:54:36 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-24 01:19:57 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/nether_reed_taburet": {
     "criteria": {
@@ -3667,6 +3753,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-06-24 01:22:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-23 23:26:24 +0000"
@@ -3737,6 +3829,7 @@
     "criteria": {
       "sweet_berries": "2025-06-23 23:49:04 +0000",
       "cooked_beef": "2025-06-23 23:28:10 +0000",
+      "porkchop": "2025-06-24 01:26:11 +0000",
       "tropical_fish": "2025-06-24 00:30:21 +0000",
       "bread": "2025-06-23 23:49:29 +0000"
     },
@@ -4024,6 +4117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-23 23:44:46 +0000"
@@ -4075,6 +4174,12 @@
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2025-06-23 23:44:46 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -4141,6 +4246,13 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-23 23:28:39 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-06-24 01:18:38 +0000",
+      "has_the_recipe": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -4262,6 +4374,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-23 23:48:58 +0000",
       "minecraft:skeleton": "2025-06-24 00:24:22 +0000",
+      "minecraft:zombie": "2025-06-24 01:17:56 +0000",
       "minecraft:drowned": "2025-06-24 00:04:54 +0000"
     },
     "done": false
@@ -4407,6 +4520,12 @@
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -4645,6 +4764,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/oak_planks": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
@@ -4678,6 +4803,12 @@
   "betterend:recipes/decorations/pythadendron_ladder": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -4756,6 +4887,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-06-24 00:35:40 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-06-24 01:19:57 +0000"
     },
     "done": true
   },
@@ -5329,6 +5466,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-24 01:00:04 +0000"
@@ -5350,6 +5493,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-06-23 23:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -5554,6 +5703,12 @@
   "mcdw:recipes/swords/sword_dancers_sword": {
     "criteria": {
       "has_leather": "2025-06-24 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
     },
     "done": true
   },
@@ -5869,6 +6024,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2025-06-24 01:18:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/lucernia_gate": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
@@ -6172,6 +6333,12 @@
   "betternether:recipes/decorations/stalagnate_bar_stool": {
     "criteria": {
       "has_stick": "2025-06-23 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/weapon/dagger": {
+    "criteria": {
+      "dagger": "2025-06-24 01:18:05 +0000"
     },
     "done": true
   },
