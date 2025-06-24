@@ -123,3 +123,46 @@
 [01:59:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2094ms or 41 ticks behind
 [02:00:13] [Server thread/INFO]: [Not Secure] <ZaxT3r> ya vengo
 [02:00:17] [Server thread/INFO]: [Not Secure] <SamKillU> dale
+[02:20:00] [Server thread/INFO]: SamKillU lost connection: Disconnected
+[02:20:00] [Server thread/INFO]: SamKillU left the game
+[02:23:57] [Server thread/INFO]: SamKillU[/127.187.179.13:37035] logged in with entity id 94284 at (1182.699999988079, 65.0, -370.3639663882695)
+[02:23:57] [Server thread/INFO]: Sending server config values to client
+[02:23:58] [Server thread/INFO]: Syncing config to SamKillU (c1327062-4d69-3567-a9ec-5dfec9565934)
+[02:23:58] [Server thread/INFO]: Loading config from file...
+[02:23:58] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:23:58] [Server thread/INFO]: SamKillU joined the game
+[02:23:58] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[02:23:59] [Netty Epoll Server IO #6/INFO]: Channel update: SamKillU -> default
+[02:23:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:23:59] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[02:23:59] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[02:23:59] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[02:23:59] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[02:23:59] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/mcpanitas/servidor_minecraft/bclib-sync (allowDelete=true)
+[02:24:36] [Server thread/INFO]: [Not Secure] <SamKillU> oe
+[02:24:40] [Server thread/INFO]: [Not Secure] <SamKillU> volviste??
+[02:24:44] [Server thread/INFO]: [Not Secure] <SamKillU> estoy aca en el dc
+[02:24:48] [Server thread/INFO]: [Not Secure] <ZaxT3r> uwu
+[02:24:51] [Server thread/INFO]: [Not Secure] <ZaxT3r> ahora llego xd
+[02:24:55] [Server thread/INFO]: [Not Secure] <SamKillU> dale
+[02:25:40] [Server thread/INFO]: [Not Secure] <SamKillU> hey
+[02:25:45] [Server thread/INFO]: [Not Secure] <SamKillU> ya hiciste las backpakcs?
+[02:26:06] [Server thread/INFO]: [Not Secure] <ZaxT3r> te hago la tuya
+[02:26:47] [Server thread/INFO]: [Not Secure] <SamKillU> a mimir
+[02:27:28] [Server thread/INFO]: [Not Secure] <SamKillU> oe
+[02:27:31] [Server thread/INFO]: [Not Secure] <SamKillU> ocomo lo equipo?
+[02:27:31] [Server thread/INFO]: [Not Secure] <ZaxT3r> eo
+[02:27:38] [Server thread/INFO]: [Not Secure] <ZaxT3r> abre el inventario
