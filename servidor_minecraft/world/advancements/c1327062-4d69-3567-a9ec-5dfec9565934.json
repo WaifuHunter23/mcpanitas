@@ -4812,6 +4812,7 @@
       "minecraft:vindicator": "2025-06-24 03:25:24 +0000",
       "minecraft:spider": "2025-06-24 03:07:10 +0000",
       "minecraft:husk": "2025-06-24 01:53:51 +0000",
+      "minecraft:enderman": "2025-06-25 05:22:02 +0000",
       "minecraft:vex": "2025-06-24 03:41:55 +0000",
       "minecraft:zombie": "2025-06-24 01:17:56 +0000",
       "minecraft:drowned": "2025-06-24 00:04:54 +0000",
@@ -7475,6 +7476,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-06-25 05:00:07 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/spellblade": {
     "criteria": {
       "arcane": "2025-06-24 03:51:27 +0000"
@@ -7486,6 +7493,12 @@
       "used_totem": "2025-06-24 03:59:16 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-25 05:26:16 +0000"
+    },
+    "done": false
   },
   "vanilla_refresh:biome/terralith/sakura_grove": {
     "criteria": {
@@ -7511,11 +7524,31 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-25 05:08:54 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2025-06-25 04:20:49 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-25 04:58:43 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:zombie_lackey": "2025-06-25 05:22:26 +0000",
+      "rottencreatures:skeleton_lackey": "2025-06-25 05:22:16 +0000",
+      "rottencreatures:dead_beard": "2025-06-25 05:22:17 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
     "criteria": {
@@ -7526,6 +7559,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-25 05:22:03 +0000"
     },
     "done": true
   },
@@ -7541,6 +7580,13 @@
     },
     "done": true
   },
+  "rottencreatures:he_is_a_pirate": {
+    "criteria": {
+      "get_treasure_chest": "2025-06-25 05:22:20 +0000",
+      "killed_dead_beard": "2025-06-25 05:22:17 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/palm_wood": {
     "criteria": {
       "has_log": "2025-06-25 04:46:52 +0000"
@@ -7550,6 +7596,12 @@
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-25 05:22:03 +0000"
     },
     "done": true
   },
@@ -7589,6 +7641,18 @@
     },
     "done": false
   },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-25 05:22:03 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-06-25 05:22:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -7609,9 +7673,15 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-06-25 04:45:40 +0000"
+      "not_target": "2025-06-25 05:22:12 +0000"
     },
     "done": false
+  },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-25 05:13:29 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
@@ -7775,6 +7845,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-06-25 05:22:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -7790,6 +7866,12 @@
   "regions_unexplored:recipes/building_blocks/palm_slab": {
     "criteria": {
       "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-25 05:13:29 +0000"
     },
     "done": true
   },
@@ -7865,6 +7947,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-25 05:22:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_four_panel": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -7895,15 +7983,33 @@
     },
     "done": true
   },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:skeleton_lackey": "2025-06-25 05:22:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-25 04:20:49 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-06-25 05:22:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-25 05:13:29 +0000"
     },
     "done": true
   },

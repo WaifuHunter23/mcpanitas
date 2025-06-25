@@ -6483,7 +6483,9 @@
   },
   "rottencreatures:kill_all_rot": {
     "criteria": {
-      "rottencreatures:mummy": "2025-06-24 01:11:46 +0000"
+      "rottencreatures:mummy": "2025-06-24 01:11:46 +0000",
+      "rottencreatures:zombie_lackey": "2025-06-25 05:22:09 +0000",
+      "rottencreatures:skeleton_lackey": "2025-06-25 05:22:37 +0000"
     },
     "done": false
   },
@@ -8115,12 +8117,6 @@
     },
     "done": true
   },
-  "mt:entity_hit_system/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-25 04:45:41 +0000"
-    },
-    "done": false
-  },
   "mcwpaths:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-25 04:25:44 +0000"
@@ -8133,15 +8129,39 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_bench": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:34 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_horde": {
     "criteria": {
       "kill_horde": "2025-06-25 04:29:24 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/spellblade": {
+    "criteria": {
+      "arcane": "2025-06-25 04:53:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin_smithing": {
+    "criteria": {
+      "has_pumpkin": "2025-06-25 05:00:38 +0000"
     },
     "done": true
   },
@@ -8157,15 +8177,51 @@
     },
     "done": true
   },
+  "rottencreatures:he_is_a_pirate": {
+    "criteria": {
+      "get_treasure_chest": "2025-06-25 05:23:17 +0000"
+    },
+    "done": false
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-06-25 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shutter": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-06-25 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-25 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-25 05:15:42 +0000"
     },
     "done": true
   },
@@ -8196,6 +8252,12 @@
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:32 +0000"
     },
     "done": true
   },
@@ -8235,6 +8297,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_tall_stool": {
     "criteria": {
       "has_wool": "2025-06-25 04:36:20 +0000"
@@ -8262,6 +8330,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:32 +0000"
     },
     "done": true
   },
@@ -8295,6 +8369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
   "bushierflowers:recipes/grown_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-06-25 04:23:25 +0000"
@@ -8304,6 +8384,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_flower_box": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:34 +0000"
     },
     "done": true
   },
@@ -8352,6 +8438,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-25 04:56:51 +0000"
     },
     "done": true
   },
