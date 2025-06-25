@@ -7685,7 +7685,7 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-06-25 06:02:42 +0000"
+      "not_target": "2025-06-25 06:22:07 +0000"
     },
     "done": false
   },

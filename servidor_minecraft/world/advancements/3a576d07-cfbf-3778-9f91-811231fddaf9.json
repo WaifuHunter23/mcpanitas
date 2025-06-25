@@ -7892,7 +7892,7 @@
   },
   "vanilla_refresh:player/hurt": {
     "criteria": {
-      "requirement": "2025-06-25 06:12:05 +0000"
+      "requirement": "2025-06-25 06:25:07 +0000"
     },
     "done": true
   },
@@ -8126,7 +8126,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-25 06:16:16 +0000"
+      "requirement": "2025-06-25 06:26:16 +0000"
     },
     "done": false
   },
