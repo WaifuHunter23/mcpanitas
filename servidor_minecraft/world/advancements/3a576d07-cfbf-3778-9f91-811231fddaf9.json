@@ -801,6 +801,7 @@
     "criteria": {
       "cooked_beef": "2025-06-24 00:38:29 +0000",
       "baked_potato": "2025-06-24 02:21:43 +0000",
+      "beef": "2025-06-25 06:36:33 +0000",
       "apple": "2025-06-23 23:42:07 +0000",
       "pumpkin_pie": "2025-06-24 03:20:15 +0000",
       "bread": "2025-06-23 23:42:04 +0000",
@@ -7890,6 +7891,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-06-25 06:41:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton_smithing": {
     "criteria": {
       "has_skeleton": "2025-06-24 03:44:38 +0000"
@@ -8114,7 +8121,13 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-06-25 06:34:08 +0000"
+      "not_target": "2025-06-25 06:38:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-25 06:46:16 +0000"
     },
     "done": false
   },

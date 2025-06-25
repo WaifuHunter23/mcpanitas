@@ -7476,6 +7476,12 @@
     },
     "done": true
   },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-06-25 06:36:23 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/spellblade": {
     "criteria": {
       "arcane": "2025-06-24 03:51:27 +0000"
@@ -7688,6 +7694,12 @@
       "has_wood": "2025-06-25 04:20:49 +0000"
     },
     "done": true
+  },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-25 06:37:31 +0000"
+    },
+    "done": false
   },
   "mcda:recipes/base_armors/reinforced_mail_leggings": {
     "criteria": {
