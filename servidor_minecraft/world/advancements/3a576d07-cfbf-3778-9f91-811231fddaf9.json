@@ -7890,12 +7890,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-06-25 06:25:07 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/skeleton_smithing": {
     "criteria": {
       "has_skeleton": "2025-06-24 03:44:38 +0000"
@@ -8120,13 +8114,7 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-06-25 05:56:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-06-25 06:26:16 +0000"
+      "not_target": "2025-06-25 06:34:08 +0000"
     },
     "done": false
   },
@@ -8208,9 +8196,21 @@
     },
     "done": true
   },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-06-25 06:35:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-06-25 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-06-25 06:32:16 +0000"
     },
     "done": true
   },
@@ -8337,6 +8337,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-06-25 06:32:29 +0000"
     },
     "done": true
   },

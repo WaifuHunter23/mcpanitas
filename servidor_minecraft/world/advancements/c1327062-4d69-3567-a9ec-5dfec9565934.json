@@ -7476,12 +7476,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-06-25 05:00:07 +0000"
-    },
-    "done": true
-  },
   "spellbladenext:spellblades/spellblade": {
     "criteria": {
       "arcane": "2025-06-24 03:51:27 +0000"
@@ -7593,6 +7587,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-06-25 06:34:00 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-06-25 05:35:42 +0000"
@@ -7608,6 +7608,12 @@
   "regions_unexplored:recipes/redstone/palm_trapdoor": {
     "criteria": {
       "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-06-25 06:32:15 +0000"
     },
     "done": true
   },
@@ -7682,12 +7688,6 @@
       "has_wood": "2025-06-25 04:20:49 +0000"
     },
     "done": true
-  },
-  "mt:entity_hit_system/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-25 06:22:07 +0000"
-    },
-    "done": false
   },
   "mcda:recipes/base_armors/reinforced_mail_leggings": {
     "criteria": {
@@ -7908,6 +7908,12 @@
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-06-25 04:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-06-25 06:32:32 +0000"
     },
     "done": true
   },
