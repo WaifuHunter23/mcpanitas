@@ -7685,7 +7685,7 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-06-25 05:22:12 +0000"
+      "not_target": "2025-06-25 06:02:42 +0000"
     },
     "done": false
   },
@@ -7716,6 +7716,12 @@
   "regions_unexplored:recipes/building_blocks/palm_planks": {
     "criteria": {
       "has_logs": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-06-25 05:58:17 +0000"
     },
     "done": true
   },

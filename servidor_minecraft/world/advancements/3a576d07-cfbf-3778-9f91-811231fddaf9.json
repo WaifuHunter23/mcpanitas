@@ -8120,7 +8120,13 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-06-25 05:41:58 +0000"
+      "not_target": "2025-06-25 05:56:32 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-25 06:06:16 +0000"
     },
     "done": false
   },
@@ -8244,6 +8250,12 @@
     },
     "done": true
   },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-06-25 05:58:18 +0000"
+    },
+    "done": true
+  },
   "minecells:unlock/kill_a_leaping_zombie": {
     "criteria": {
       "leaping_zombie_killed": "2025-06-25 05:35:50 +0000"
@@ -8361,6 +8373,12 @@
   "another_furniture:recipes/dark_oak_flower_box": {
     "criteria": {
       "has_slab": "2025-06-25 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberlash": {
+    "criteria": {
+      "requirement": "2025-06-25 05:57:06 +0000"
     },
     "done": true
   },
