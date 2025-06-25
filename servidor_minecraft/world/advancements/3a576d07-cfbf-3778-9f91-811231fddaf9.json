@@ -653,6 +653,7 @@
       "minecraft:spider": "2025-06-24 01:12:36 +0000",
       "minecraft:creeper": "2025-06-24 03:26:24 +0000",
       "minecraft:evoker": "2025-06-24 03:30:31 +0000",
+      "minecraft:witch": "2025-06-25 05:35:12 +0000",
       "minecraft:husk": "2025-06-23 23:39:34 +0000",
       "minecraft:cave_spider": "2025-06-24 02:57:16 +0000",
       "minecraft:enderman": "2025-06-25 04:31:33 +0000",
@@ -8117,6 +8118,12 @@
     },
     "done": true
   },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-25 05:35:39 +0000"
+    },
+    "done": false
+  },
   "mcwpaths:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-25 04:25:44 +0000"
@@ -8231,6 +8238,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-06-25 05:35:50 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
@@ -8282,6 +8295,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-06-25 04:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-06-25 05:35:28 +0000"
     },
     "done": true
   },
@@ -8456,6 +8475,12 @@
   "travelersbackpack:recipes/decorations/black_sleeping_bag": {
     "criteria": {
       "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-06-25 05:35:50 +0000"
     },
     "done": true
   },
