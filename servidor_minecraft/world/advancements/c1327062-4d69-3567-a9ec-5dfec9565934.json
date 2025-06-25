@@ -7629,6 +7629,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-06-25 04:12:00 +0000"
@@ -7695,6 +7701,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-25 04:20:49 +0000"
@@ -7743,6 +7755,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -7779,6 +7797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-06-25 05:35:42 +0000"
@@ -7797,6 +7821,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/dark_oak_shrub": {
     "criteria": {
       "has_dark_oak_sapling": "2025-06-25 04:21:01 +0000"
@@ -7806,6 +7836,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
     },
     "done": true
   },
@@ -7899,6 +7935,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-06-25 05:40:44 +0000"
@@ -7920,6 +7962,18 @@
   "mcda:recipes/base_armors/squid_armor_leggings": {
     "criteria": {
       "has_leather_leggings": "2025-06-25 05:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
     },
     "done": true
   },
@@ -8019,6 +8073,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_table": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
@@ -8034,6 +8094,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
     },
     "done": true
   },
@@ -8055,9 +8121,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 05:52:38 +0000"
+    },
+    "done": true
+  },
   "fwaystones:recipes/abyss_watcher": {
     "criteria": {
       "has_ender_pearl": "2025-06-25 05:22:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.minecraft.obsidian": "2025-06-25 05:52:38 +0000"
     },
     "done": true
   },
@@ -8088,6 +8166,12 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-06-25 05:37:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 05:52:38 +0000"
     },
     "done": true
   },
@@ -8145,6 +8229,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-06-25 05:54:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -8160,6 +8250,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-25 05:52:38 +0000"
     },
     "done": true
   },
