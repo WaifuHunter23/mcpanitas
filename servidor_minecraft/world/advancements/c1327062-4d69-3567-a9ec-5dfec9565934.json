@@ -7493,6 +7493,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/palm_beard_from_palm_log": {
+    "criteria": {
+      "has_log": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/palm_fence_gate": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
   "mcwpaths:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-25 04:26:14 +0000"
@@ -7529,9 +7541,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/palm_trapdoor": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
     },
     "done": true
   },
@@ -7547,11 +7571,23 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/palm_fence": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-06-25 04:12:00 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "palm_log": "2025-06-25 04:46:52 +0000"
+    },
+    "done": false
   },
   "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
@@ -7571,9 +7607,27 @@
     },
     "done": true
   },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-25 04:45:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-25 04:48:17 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/dark_oak": {
     "criteria": {
       "has_wood": "2025-06-25 04:20:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_logs": "2025-06-25 04:46:52 +0000"
     },
     "done": true
   },
@@ -7637,9 +7691,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/palm_pressure_plate": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/dark_oak_shrub": {
     "criteria": {
       "has_dark_oak_sapling": "2025-06-25 04:21:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/palm_stairs": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
     },
     "done": true
   },
@@ -7652,6 +7718,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-25 04:44:40 +0000"
     },
     "done": true
   },
@@ -7685,9 +7757,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/palm_door": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/palm_button": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
     },
     "done": true
   },
@@ -7703,6 +7787,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/palm_slab": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
@@ -7712,6 +7802,12 @@
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_shrub": {
+    "criteria": {
+      "has_palm_sapling": "2025-06-25 04:46:52 +0000"
     },
     "done": true
   },
@@ -7790,6 +7886,12 @@
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/palm_sign": {
+    "criteria": {
+      "has_palm_planks": "2025-06-25 04:46:52 +0000"
     },
     "done": true
   },

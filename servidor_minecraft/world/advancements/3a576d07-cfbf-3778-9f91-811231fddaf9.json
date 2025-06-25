@@ -8115,9 +8115,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "requirement": "2025-06-25 04:41:14 +0000"
+      "not_target": "2025-06-25 04:45:41 +0000"
     },
     "done": false
   },
@@ -8142,6 +8142,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-25 04:45:23 +0000"
     },
     "done": true
   },
@@ -8220,6 +8226,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/golden_sea_blade": {
+    "criteria": {
+      "blowgun": "2025-06-25 04:45:30 +0000"
     },
     "done": true
   },
@@ -8340,6 +8352,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-25 04:45:23 +0000"
     },
     "done": true
   },
