@@ -8120,7 +8120,7 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-06-25 05:35:39 +0000"
+      "not_target": "2025-06-25 05:41:58 +0000"
     },
     "done": false
   },
@@ -8205,6 +8205,12 @@
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-06-25 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-06-25 05:40:51 +0000"
     },
     "done": true
   },
@@ -8502,6 +8508,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-06-25 05:39:37 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-06-25 04:36:20 +0000"
@@ -8517,6 +8529,12 @@
   "another_furniture:recipes/black_lamp": {
     "criteria": {
       "has_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-06-25 05:41:58 +0000"
     },
     "done": true
   },

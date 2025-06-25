@@ -7494,12 +7494,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-06-25 05:36:16 +0000"
-    },
-    "done": false
-  },
   "vanilla_refresh:biome/terralith/sakura_grove": {
     "criteria": {
       "requirement": "2025-06-24 04:00:01 +0000"
@@ -7659,6 +7653,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-06-25 05:40:33 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -7725,6 +7725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
@@ -7761,6 +7767,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -7791,6 +7803,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-06-25 05:40:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/palm_stairs": {
     "criteria": {
       "has_palm_planks": "2025-06-25 04:46:52 +0000"
@@ -7800,6 +7824,12 @@
   "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_bud": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
     },
     "done": true
   },
@@ -7815,9 +7845,21 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_red": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-25 04:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
     },
     "done": true
   },
@@ -7839,6 +7881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-06-25 04:20:49 +0000"
@@ -7848,6 +7896,18 @@
   "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
     "criteria": {
       "has_log": "2025-06-25 04:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
     },
     "done": true
   },
@@ -7872,6 +7932,12 @@
   "regions_unexplored:recipes/redstone/palm_button": {
     "criteria": {
       "has_palm_planks": "2025-06-25 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
     },
     "done": true
   },
@@ -7965,6 +8031,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/raw_redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
@@ -8007,6 +8085,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-06-25 05:37:51 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-06-25 04:26:14 +0000"
@@ -8019,9 +8103,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-06-25 05:40:44 +0000"
+    },
+    "done": true
+  },
   "rottencreatures:root": {
     "criteria": {
       "rottencreatures:skeleton_lackey": "2025-06-25 05:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-06-25 05:45:46 +0000"
     },
     "done": true
   },
