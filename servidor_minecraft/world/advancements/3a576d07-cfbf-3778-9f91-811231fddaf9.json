@@ -7891,12 +7891,6 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
-    "criteria": {
-      "requirement": "2025-06-25 06:41:16 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/skeleton_smithing": {
     "criteria": {
       "has_skeleton": "2025-06-24 03:44:38 +0000"
@@ -8119,87 +8113,27 @@
     },
     "done": true
   },
-  "mt:entity_hit_system/on_hit": {
+  "lootr:100loot": {
     "criteria": {
-      "not_target": "2025-06-25 06:38:23 +0000"
+      "loot_stat": "2025-06-25 04:07:50 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecells:root": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
+      "requirement": "2025-06-25 04:11:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecells:book/book": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
+      "requirement": "2025-06-25 04:11:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "mt:treasure_advancements/first_common_dark_forest_treasure": {
     "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-25 06:54:17 +0000"
-    },
-    "done": false
-  },
-  "mcwpaths:recipes/dark_oak": {
-    "criteria": {
-      "has_wood": "2025-06-25 04:25:44 +0000"
+      "obtainchest": "2025-06-25 04:22:00 +0000"
     },
     "done": true
   },
@@ -8209,99 +8143,21 @@
     },
     "done": true
   },
-  "another_furniture:recipes/jungle_bench": {
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
-      "has_slab": "2025-06-25 04:56:34 +0000"
+      "has_red_mushroom": "2025-06-25 04:22:50 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/kill_horde": {
+  "betternether:recipes/misc/wall_red_brown": {
     "criteria": {
-      "kill_horde": "2025-06-25 04:29:24 +0000"
+      "has_red_mushroom": "2025-06-25 04:22:50 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_gravel": "2025-06-25 04:56:51 +0000"
-    },
-    "done": true
-  },
-  "spellbladenext:spellblades/spellblade": {
-    "criteria": {
-      "arcane": "2025-06-25 04:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pumpkin_smithing": {
-    "criteria": {
-      "has_pumpkin": "2025-06-25 05:00:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-06-25 04:45:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "rottencreatures:he_is_a_pirate": {
-    "criteria": {
-      "get_treasure_chest": "2025-06-25 05:23:17 +0000"
-    },
-    "done": false
-  },
-  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_shutter": {
-    "criteria": {
-      "has_slab": "2025-06-25 04:56:32 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/protector": {
-    "criteria": {
-      "requirement": "2025-06-25 06:35:01 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/end_stone_smelter": {
-    "criteria": {
-      "has_tag_c_furnaces": "2025-06-25 05:15:42 +0000"
-    },
-    "done": true
-  },
-  "minecells:promenade": {
-    "criteria": {
-      "requirement": "2025-06-25 06:32:16 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/undead_archer": {
-    "criteria": {
-      "requirement": "2025-06-25 05:40:51 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_shutter": {
-    "criteria": {
-      "has_slab": "2025-06-25 04:56:34 +0000"
+      "has_red_mushroom": "2025-06-25 04:22:50 +0000"
     },
     "done": true
   },
@@ -8311,45 +8167,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "bushierflowers:recipes/grown_pink_tulip": {
     "criteria": {
-      "has_wood_slab": "2025-06-25 04:56:32 +0000"
+      "has_pink_tulip": "2025-06-25 04:23:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_furnace": "2025-06-25 05:15:42 +0000"
+      "stone_pickaxe": "2025-06-25 04:25:09 +0000"
     },
     "done": true
   },
-  "minecraft:end/dragon_breath": {
+  "minecraft:recipes/decorations/torch": {
     "criteria": {
-      "dragon_breath": "2025-06-25 04:31:44 +0000"
+      "has_stone_pickaxe": "2025-06-25 04:25:09 +0000"
     },
     "done": true
   },
-  "minecells:cell_crafter": {
+  "mcwpaths:recipes/dark_oak": {
     "criteria": {
-      "use_cell_crafter": "2025-06-25 05:58:18 +0000"
+      "has_wood": "2025-06-25 04:25:44 +0000"
     },
     "done": true
   },
-  "minecells:unlock/kill_a_leaping_zombie": {
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
-      "leaping_zombie_killed": "2025-06-25 05:35:50 +0000"
+      "has_planks": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-25 04:25:44 +0000"
     },
     "done": true
   },
   "another_furniture:recipes/dark_oak_chair": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
-    "criteria": {
-      "has_red_mushroom": "2025-06-25 04:22:50 +0000"
     },
     "done": true
   },
@@ -8365,123 +8227,15 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_bench": {
-    "criteria": {
-      "has_slab": "2025-06-25 04:56:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-06-25 04:25:09 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_stool": {
-    "criteria": {
-      "has_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_sofa": {
-    "criteria": {
-      "has_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-06-25 04:07:50 +0000"
-    },
-    "done": true
-  },
-  "minecells:prison": {
-    "criteria": {
-      "requirement": "2025-06-25 05:35:28 +0000"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2025-06-25 04:25:44 +0000"
     },
     "done": true
   },
-  "1_splatus:spellbound/unlocked/golden_sea_blade": {
-    "criteria": {
-      "blowgun": "2025-06-25 04:45:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-06-25 04:56:51 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/run_in_the_promenade": {
-    "criteria": {
-      "run": "2025-06-25 06:32:29 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/black_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecells:root": {
-    "criteria": {
-      "requirement": "2025-06-25 04:11:48 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/ghostly_helmet": {
-    "criteria": {
-      "has_skeleton_skull": "2025-06-25 04:30:54 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/book": {
-    "criteria": {
-      "requirement": "2025-06-25 04:11:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_flower_box": {
-    "criteria": {
-      "has_slab": "2025-06-25 04:56:32 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:emberlash": {
-    "criteria": {
-      "requirement": "2025-06-25 05:57:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "ghoul": "2025-06-25 04:29:24 +0000"
     },
     "done": true
   },
@@ -8497,27 +8251,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-25 04:56:51 +0000"
-    },
-    "done": true
-  },
-  "bushierflowers:recipes/grown_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-06-25 04:23:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_flower_box": {
-    "criteria": {
-      "has_slab": "2025-06-25 04:56:34 +0000"
     },
     "done": true
   },
@@ -8527,33 +8263,9 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_red_brown": {
-    "criteria": {
-      "has_red_mushroom": "2025-06-25 04:22:50 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/dark_oak_table": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-06-25 04:22:50 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/dragon": {
-    "criteria": {
-      "has_dragon_breath": "2025-06-25 04:31:44 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_black_wool": "2025-06-25 04:36:20 +0000"
     },
     "done": true
   },
@@ -8563,45 +8275,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-25 04:56:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-06-25 04:45:23 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
-    "criteria": {
-      "has_black_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/leaping_zombie": {
-    "criteria": {
-      "requirement": "2025-06-25 05:35:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-06-25 04:25:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_stone_pickaxe": "2025-06-25 04:25:09 +0000"
     },
     "done": true
   },
@@ -8611,9 +8287,93 @@
     },
     "done": true
   },
-  "minecells:book/mobs/grenadier": {
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
-      "requirement": "2025-06-25 05:39:37 +0000"
+      "has_planks": "2025-06-25 04:25:44 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_horde": {
+    "criteria": {
+      "kill_horde": "2025-06-25 04:29:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-06-25 04:29:24 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-06-25 04:30:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-25 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-06-25 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_dragon_breath": "2025-06-25 04:31:44 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-25 04:36:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-06-25 04:36:20 +0000"
     },
     "done": true
   },
@@ -8623,27 +8383,9 @@
     },
     "done": true
   },
-  "mt:treasure_advancements/first_common_dark_forest_treasure": {
-    "criteria": {
-      "obtainchest": "2025-06-25 04:22:00 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/black_lamp": {
     "criteria": {
       "has_wool": "2025-06-25 04:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/shieldbearer": {
-    "criteria": {
-      "requirement": "2025-06-25 05:41:58 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/dark_oak_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-06-25 04:25:44 +0000"
     },
     "done": true
   },
@@ -8653,11 +8395,269 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/dragon_bone_block": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_dragon_breath": "2025-06-25 04:31:44 +0000"
+      "has_carved_pumpkin": "2025-06-25 04:45:23 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-25 04:45:23 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:spellbound/unlocked/golden_sea_blade": {
+    "criteria": {
+      "blowgun": "2025-06-25 04:45:30 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/spellblade": {
+    "criteria": {
+      "arcane": "2025-06-25 04:53:06 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-25 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:32 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_bench": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:34 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_shutter": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:34 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_flower_box": {
+    "criteria": {
+      "has_slab": "2025-06-25 04:56:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-25 04:56:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin_smithing": {
+    "criteria": {
+      "has_pumpkin": "2025-06-25 05:00:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-06-25 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-06-25 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:he_is_a_pirate": {
+    "criteria": {
+      "get_treasure_chest": "2025-06-25 05:23:17 +0000"
+    },
+    "done": false
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-06-25 05:35:28 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/kill_a_leaping_zombie": {
+    "criteria": {
+      "leaping_zombie_killed": "2025-06-25 05:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-06-25 05:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-06-25 05:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/undead_archer": {
+    "criteria": {
+      "requirement": "2025-06-25 05:40:51 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/shieldbearer": {
+    "criteria": {
+      "requirement": "2025-06-25 05:41:58 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberlash": {
+    "criteria": {
+      "requirement": "2025-06-25 05:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecells:cell_crafter": {
+    "criteria": {
+      "use_cell_crafter": "2025-06-25 05:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecells:promenade": {
+    "criteria": {
+      "requirement": "2025-06-25 06:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/run_in_the_promenade": {
+    "criteria": {
+      "run": "2025-06-25 06:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-06-25 06:35:01 +0000"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2025-06-25 06:38:23 +0000"
+    },
+    "done": false
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-06-25 06:41:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-26 05:57:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
