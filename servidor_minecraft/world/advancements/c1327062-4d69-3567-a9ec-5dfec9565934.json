@@ -307,9 +307,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-06-27 03:20:43 +0000",
+      "minecraft:beach": "2025-06-27 03:17:26 +0000",
       "minecraft:dark_forest": "2025-06-25 04:10:24 +0000",
       "minecraft:river": "2025-06-24 03:43:16 +0000",
       "minecraft:desert": "2025-06-23 04:58:10 +0000",
+      "minecraft:ocean": "2025-06-27 03:18:04 +0000",
       "minecraft:warm_ocean": "2025-06-23 04:25:17 +0000"
     },
     "done": false
@@ -4162,6 +4165,7 @@
       "bread": "2025-06-23 23:49:29 +0000",
       "golden_apple": "2025-06-24 03:43:29 +0000",
       "golden_carrot": "2025-06-24 03:05:16 +0000",
+      "cooked_chicken": "2025-06-27 03:15:39 +0000",
       "cod": "2025-06-24 03:07:51 +0000",
       "carrot": "2025-06-24 01:31:54 +0000"
     },
@@ -4195,6 +4199,7 @@
     "criteria": {
       "rocky_reef": "2025-06-23 23:52:52 +0000",
       "grassy_beach": "2025-06-24 02:55:48 +0000",
+      "blackwood_taiga": "2025-06-27 03:09:57 +0000",
       "eucalyptus_forest": "2025-06-23 23:53:02 +0000",
       "redwoods": "2025-06-24 02:55:51 +0000",
       "rainforest": "2025-06-23 23:28:16 +0000"
@@ -4205,6 +4210,7 @@
     "criteria": {
       "rocky_reef": "2025-06-23 23:52:52 +0000",
       "grassy_beach": "2025-06-24 02:55:48 +0000",
+      "blackwood_taiga": "2025-06-27 03:09:57 +0000",
       "eucalyptus_forest": "2025-06-23 23:53:02 +0000",
       "redwoods": "2025-06-24 02:55:51 +0000",
       "rainforest": "2025-06-23 23:28:16 +0000"
@@ -4812,6 +4818,7 @@
       "minecraft:vindicator": "2025-06-24 03:25:24 +0000",
       "minecraft:spider": "2025-06-24 03:07:10 +0000",
       "minecraft:husk": "2025-06-24 01:53:51 +0000",
+      "minecraft:cave_spider": "2025-06-27 03:23:16 +0000",
       "minecraft:enderman": "2025-06-25 05:22:02 +0000",
       "minecraft:vex": "2025-06-24 03:41:55 +0000",
       "minecraft:zombie": "2025-06-24 01:17:56 +0000",
@@ -5721,6 +5728,8 @@
       "lush_desert": "2025-06-24 00:29:03 +0000",
       "rocky_rainforest": "2025-06-24 02:56:59 +0000",
       "volcanic_plains": "2025-06-24 03:25:16 +0000",
+      "grassland": "2025-06-27 03:17:55 +0000",
+      "glowing_grotto": "2025-06-27 03:26:03 +0000",
       "rainforest": "2025-06-24 02:55:58 +0000"
     },
     "done": false
@@ -6775,7 +6784,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "oak_tree_1": "2025-06-24 02:55:20 +0000"
+      "oak_tree_1": "2025-06-24 02:55:20 +0000",
+      "dark_oak_house_large_1": "2025-06-27 03:11:32 +0000"
     },
     "done": false
   },
@@ -8289,83 +8299,287 @@
     },
     "done": true
   },
-  "vanilla_refresh:player/hurt": {
+  "mcwroofs:recipes/grass": {
     "criteria": {
-      "requirement": "2025-06-25 06:36:23 +0000"
+      "has_planks": "2025-06-27 03:09:51 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/soil": {
+    "criteria": {
+      "has_wood": "2025-06-27 03:09:51 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-06-27 03:09:51 +0000"
+    },
+    "done": false
+  },
+  "mcwroofs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_cottage": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/spruce": {
+    "criteria": {
+      "has_planks": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-06-27 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_boots": {
+    "criteria": {
+      "has_wolf_pelt": "2025-06-27 03:16:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_helmet": {
+    "criteria": {
+      "has_wolf_pelt": "2025-06-27 03:16:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_leggings": {
+    "criteria": {
+      "has_wolf_pelt": "2025-06-27 03:16:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/wolf_armor_chestplate": {
+    "criteria": {
+      "has_wolf_pelt": "2025-06-27 03:16:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-06-27 03:29:42 +0000"
     },
     "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-26 06:14:09 +0000"
+      "log_spam_fixer": "2025-06-27 03:36:06 +0000"
     },
     "done": false
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-06-27 03:32:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
