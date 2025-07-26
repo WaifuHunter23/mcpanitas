@@ -1,393 +1,367 @@
 {
   "spellbladenext:spellblades/root": {
     "criteria": {
-      "always": "2025-07-25 23:24:56 +0000"
+      "always": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
-      "has_dark_oak": "2025-07-25 23:24:56 +0000"
+      "has_dark_oak": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/crimson": {
     "criteria": {
-      "has_crimson": "2025-07-25 23:24:56 +0000"
+      "has_crimson": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
-      "tick": "2025-07-25 23:24:56 +0000"
+      "tick": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-07-25 23:24:56 +0000"
+      "unlock_right_away": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/jungle": {
     "criteria": {
-      "has_jungle": "2025-07-25 23:24:56 +0000"
+      "has_jungle": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
-      "has_eggs": "2025-07-25 23:24:56 +0000"
+      "has_eggs": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/warped": {
     "criteria": {
-      "has_warped": "2025-07-25 23:24:56 +0000"
+      "has_warped": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/metal": {
     "criteria": {
-      "has_deepslate": "2025-07-25 23:24:56 +0000"
+      "has_deepslate": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "adorabuild_structures:overworld_structures": {
     "criteria": {
-      "always": "2025-07-25 23:24:56 +0000"
+      "always": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
-      "has_glass": "2025-07-25 23:24:56 +0000"
+      "has_glass": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "seasonsextras:recipes/season_calendar": {
     "criteria": {
-      "has_clock": "2025-07-25 23:24:56 +0000"
+      "has_clock": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2025-07-25 23:24:56 +0000"
+      "always": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/birch": {
     "criteria": {
-      "has_birch": "2025-07-25 23:24:56 +0000"
+      "has_birch": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/stone": {
     "criteria": {
-      "has_stone": "2025-07-25 23:24:56 +0000"
+      "has_stone": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcwfences:recipes/sandstone": {
     "criteria": {
-      "has_sand": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/acacia": {
-    "criteria": {
-      "has_acacia": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/oak": {
-    "criteria": {
-      "has_oak": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/greenhouse_glass": {
-    "criteria": {
-      "has_glass": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/hedge": {
-    "criteria": {
-      "has_birch": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:root": {
-    "criteria": {
-      "always": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/prismarine": {
-    "criteria": {
-      "has_qq": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/quartz": {
-    "criteria": {
-      "has_qq": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/mangrove": {
-    "criteria": {
-      "has_mangrove": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "archon:root": {
-    "criteria": {
-      "tick": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/season_detector": {
-    "criteria": {
-      "has_detector": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/end_teleport": {
-    "criteria": {
-      "s3": "2025-07-25 23:24:56 +0000"
-    },
-    "done": false
-  },
-  "mcwfences:recipes/nether": {
-    "criteria": {
-      "has_nether_brick": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/new_player": {
-    "criteria": {
-      "requirement": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/bamboo": {
-    "criteria": {
-      "has_bamboo": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/crop_season_tester": {
-    "criteria": {
-      "has_iron": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/spruce": {
-    "criteria": {
-      "has_spruce": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mt:load": {
-    "criteria": {
-      "requirement": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "seasonsextras:recipes/air_conditioning": {
-    "criteria": {
-      "has_furnace": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/end": {
-    "criteria": {
-      "has_end_brick": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/mud_brick": {
-    "criteria": {
-      "has_qq": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/blackstone": {
-    "criteria": {
-      "has_blackstone": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/deepslate": {
-    "criteria": {
-      "has_deepslate": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:root": {
-    "criteria": {
-      "always": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "vanilla_refresh:player/tick": {
-    "criteria": {
-      "s": "2025-07-25 23:24:56 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-07-25 23:24:57 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-07-25 23:24:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/using/ragnarok": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 23:24:57 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "barley_fields": "2025-07-25 23:24:57 +0000",
-      "towering_cliffs": "2025-07-25 23:38:20 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "barley_fields": "2025-07-25 23:24:57 +0000",
-      "towering_cliffs": "2025-07-25 23:38:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 23:24:57 +0000"
-    },
-    "done": false
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-07-25 23:24:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/scroll_of_returning": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 23:24:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/trailblazer": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-25 23:24:57 +0000"
-    },
-    "done": false
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_by_something": "2025-07-25 23:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-07-25 23:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-07-25 23:38:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-07-25 23:38:07 +0000"
-    },
-    "done": false
-  },
-  "mcdw:recipes/double_axes/double_axe_cursed": {
-    "criteria": {
-      "has_rotten_flesh": "2025-07-25 23:39:19 +0000"
+      "has_sand": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
   "mcda:recipes/crafting_items/glut_charm": {
     "criteria": {
-      "has_rotten_flesh": "2025-07-25 23:39:19 +0000"
+      "has_rotten_flesh": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
-  "1_splatus:spellbound/weapon/a": {
+  "mcwfences:recipes/acacia": {
     "criteria": {
-      "dagger": "2025-07-25 23:42:11 +0000"
+      "has_acacia": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/greenhouse_glass": {
+    "criteria": {
+      "has_glass": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "archon:root": {
+    "criteria": {
+      "tick": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/season_detector": {
+    "criteria": {
+      "has_detector": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/end_teleport": {
+    "criteria": {
+      "s3": "2025-07-26 00:44:54 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "mcwfences:recipes/nether": {
     "criteria": {
-      "has_iron_shovel": "2025-07-25 23:42:11 +0000"
+      "has_nether_brick": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "incendium:technical/new_player": {
     "criteria": {
-      "has_iron_shovel": "2025-07-25 23:42:11 +0000"
+      "requirement": "2025-07-26 00:44:54 +0000"
     },
     "done": true
   },
-  "1_splatus:spellbound/weapon/dagger": {
+  "mcwfences:recipes/bamboo": {
     "criteria": {
-      "dagger": "2025-07-25 23:42:11 +0000"
+      "has_bamboo": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/crop_season_tester": {
+    "criteria": {
+      "has_iron": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/air_conditioning": {
+    "criteria": {
+      "has_furnace": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/tick": {
+    "criteria": {
+      "s": "2025-07-26 00:44:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-07-26 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-07-26 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-26 00:51:31 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 00:44:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "barley_fields": "2025-07-26 00:44:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "barley_fields": "2025-07-26 00:44:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 00:44:55 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-07-26 00:44:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 00:44:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-26 00:44:55 +0000"
+    },
+    "done": false
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-07-26 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2025-07-26 00:48:57 +0000"
     },
     "done": true
   },
   "mt:entity_hit_system/got_hit": {
     "criteria": {
-      "requirement": "2025-07-26 00:48:45 +0000"
+      "requirement": "2025-07-26 00:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-26 00:49:37 +0000"
     },
     "done": true
   },
   "mt:entity_hit_system/did_hit": {
     "criteria": {
-      "requirement": "2025-07-26 00:48:57 +0000"
+      "requirement": "2025-07-26 00:48:45 +0000"
     },
     "done": true
   },
