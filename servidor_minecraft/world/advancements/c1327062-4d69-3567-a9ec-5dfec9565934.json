@@ -355,6 +355,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-26 01:01:31 +0000"
+    },
+    "done": false
+  },
   "1_splatus:spellbound/weapon/a": {
     "criteria": {
       "dagger": "2025-07-25 23:42:11 +0000"

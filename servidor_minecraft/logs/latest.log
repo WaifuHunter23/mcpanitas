@@ -82,3 +82,114 @@
 [00:48:33] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/mcpanitas/servidor_minecraft/bclib-sync (allowDelete=true)
 [00:49:37] [Server thread/INFO]: SamKillU was slain by JShadoWolf
 [00:49:37] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -15, 119, 3
+[00:53:30] [Server thread/INFO]: JShadoWolf was slain by Zombie
+[00:53:30] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -42, 164, -44
+[00:54:50] [Server thread/INFO]: SamKillU was shot by Skeleton
+[00:54:50] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -5, 126, 5
+[00:55:16] [Server thread/INFO]: JShadoWolf hit the ground too hard
+[00:55:16] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -14, 154, -27
+[00:55:38] [Server thread/INFO]: Tophyuwu[/127.241.244.20:60351] logged in with entity id 3764 at (1.5, 126.0, 3.5)
+[00:55:38] [Server thread/INFO]: Sending server config values to client
+[00:55:38] [Server thread/INFO]: Syncing config to Tophyuwu (6958e592-d64a-3f4a-b2f0-8b99a0f53c6b)
+[00:55:38] [Server thread/INFO]: Loading config from file...
+[00:55:38] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:55:38] [Server thread/INFO]: Tophyuwu joined the game
+[00:55:39] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[00:55:41] [Netty Epoll Server IO #0/INFO]: Channel update: Tophyuwu -> default
+[00:55:41] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:55:41] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:55:41] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:55:41] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:55:41] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:55:41] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/mcpanitas/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:55:42] [Server thread/INFO]: Tophyuwu lost connection: Disconnected
+[00:55:42] [Server thread/INFO]: Tophyuwu left the game
+[00:57:12] [Server thread/INFO]: Tophyuwu[/127.241.244.20:59471] logged in with entity id 3819 at (1.5, 126.0, 3.5)
+[00:57:12] [Server thread/INFO]: Sending server config values to client
+[00:57:12] [Server thread/INFO]: Syncing config to Tophyuwu (6958e592-d64a-3f4a-b2f0-8b99a0f53c6b)
+[00:57:12] [Server thread/INFO]: Loading config from file...
+[00:57:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:57:12] [Server thread/INFO]: Tophyuwu joined the game
+[00:57:12] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:57:13] [Netty Epoll Server IO #1/INFO]: Channel update: Tophyuwu -> default
+[00:57:13] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:57:13] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:57:13] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:57:13] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:57:13] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:57:13] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/mcpanitas/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:57:13] [Server thread/INFO]: Tophyuwu lost connection: Disconnected
+[00:57:13] [Server thread/INFO]: Tophyuwu left the game
+[00:57:41] [Server thread/INFO]: JShadoWolf was shot by Skeleton
+[00:57:41] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 3, 125, 0
+[00:57:51] [Server thread/INFO]: JShadoWolf has made the advancement [Monster Hunter]
+[00:58:07] [Server thread/INFO]: JShadoWolf was slain by Zombie Miner
+[00:58:07] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: 4, 123, 14
+[00:58:11] [Server thread/INFO]: Tophyuwu[/127.241.244.20:33073] logged in with entity id 4096 at (1.5, 126.0, 3.5)
+[00:58:11] [Server thread/INFO]: Sending server config values to client
+[00:58:11] [Server thread/INFO]: Syncing config to Tophyuwu (6958e592-d64a-3f4a-b2f0-8b99a0f53c6b)
+[00:58:11] [Server thread/INFO]: Loading config from file...
+[00:58:11] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:58:11] [Server thread/INFO]: Tophyuwu joined the game
+[00:58:11] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[00:58:12] [Netty Epoll Server IO #4/INFO]: Channel update: Tophyuwu -> default
+[00:58:12] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:58:12] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[00:58:12] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[00:58:12] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[00:58:12] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[00:58:12] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/mcpanitas/servidor_minecraft/bclib-sync (allowDelete=true)
+[00:58:13] [Server thread/INFO]: Tophyuwu lost connection: Disconnected
+[00:58:13] [Server thread/INFO]: Tophyuwu left the game
+[00:59:16] [Server thread/INFO]: JShadoWolf was slain by Disco Zombie
+[00:59:16] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -1, 126, 5
+[01:01:37] [Worker-Main-99/ERROR]: 
+-------------------------------------------------------------------
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:cities/overworld/start_pool. Required pieces failed to generate the required amount are: [repurposed_structures:cities/overworld/fat_tower_top=2]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: class_2338{x=-8855, y=68, z=-5896} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
+
+
+[01:02:28] [Server thread/INFO]: SamKillU has made the advancement [Barrel Booty]
+[01:02:28] [Server thread/INFO]: JShadoWolf has made the advancement [Barrel Booty]
