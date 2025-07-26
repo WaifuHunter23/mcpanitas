@@ -193,3 +193,46 @@ Repurposed Structures: Failed to create valid structure with all required pieces
 
 [01:02:28] [Server thread/INFO]: SamKillU has made the advancement [Barrel Booty]
 [01:02:28] [Server thread/INFO]: JShadoWolf has made the advancement [Barrel Booty]
+[01:04:30] [Server thread/INFO]: Tophyuwu[/127.241.244.20:37899] logged in with entity id 5246 at (1.5, 126.0, 3.5)
+[01:04:30] [Server thread/INFO]: Sending server config values to client
+[01:04:30] [Server thread/INFO]: Syncing config to Tophyuwu (6958e592-d64a-3f4a-b2f0-8b99a0f53c6b)
+[01:04:30] [Server thread/INFO]: Loading config from file...
+[01:04:30] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:04:30] [Server thread/INFO]: Tophyuwu joined the game
+[01:04:30] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[01:04:32] [Netty Epoll Server IO #6/INFO]: Channel update: Tophyuwu -> default
+[01:04:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:04:32] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:04:32] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:04:32] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:04:32] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:04:32] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/mcpanitas/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:04:32] [Server thread/INFO]: Tophyuwu lost connection: Disconnected
+[01:04:32] [Server thread/INFO]: Tophyuwu left the game
+[01:07:06] [Server thread/WARN]: SamKillU moved too quickly! 9.32308756026191,-2.7531999805212024,-2.778735878626212
+[01:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
+[01:07:29] [Server thread/INFO]: SamKillU has made the advancement [Safe Haven]
+[01:07:35] [Server thread/INFO]: JShadoWolf has made the advancement [Mine Treasure]
+[01:07:35] [Server thread/INFO]: JShadoWolf has made the advancement [First Treasure!]
+[01:07:36] [Server thread/INFO]: JShadoWolf has made the advancement [Stone Age]
+[01:07:41] [Server thread/INFO]: JShadoWolf has made the advancement [Going With The Norm]
+[01:07:53] [Server thread/INFO]: SamKillU has made the advancement ['X' Marks the Spot]
+[01:09:56] [Worker-Main-111/WARN]: Skipping Entity with id 
+[01:10:31] [Server thread/INFO]: SamKillU has made the advancement [Ice Bucket Challenge]
+[01:11:02] [Server thread/INFO]: SamKillU has made the advancement [Mine Treasure]
+[01:11:02] [Server thread/INFO]: SamKillU has made the advancement [First Treasure!]
+[01:11:03] [Server thread/INFO]: SamKillU has made the advancement [Stone Age]
+[01:11:04] [Server thread/INFO]: SamKillU has made the advancement [Going With The Norm]
