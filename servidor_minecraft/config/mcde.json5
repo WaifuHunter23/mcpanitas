@@ -107,6 +107,54 @@
 	"thirdSlotBaseChance": 0.25,
 	// Defines how slot chances increases with advancements
 	"progressChances": {
+		"minecraft:adventure/summon_iron_golem": {
+			"second": 0.012234999798238277,
+			"third": 0.012248000130057335
+		},
+		"minecraft:end/dragon_breath": {
+			"second": 0.01401199959218502,
+			"third": 0.015782000496983528
+		},
+		"minecraft:nether/uneasy_alliance": {
+			"second": 0.018378999084234238,
+			"third": 0.026204999536275864
+		},
+		"minecraft:nether/all_potions": {
+			"second": 0.018797999247908592,
+			"third": 0.02733599953353405
+		},
+		"minecraft:nether/return_to_sender": {
+			"second": 0.012800999917089939,
+			"third": 0.013327999971807003
+		},
+		"minecraft:end/respawn_dragon": {
+			"second": 0.014659999869763851,
+			"third": 0.017173999920487404
+		},
+		"minecraft:nether/netherite_armor": {
+			"second": 0.013392000459134579,
+			"third": 0.014503000304102898
+		},
+		"minecraft:adventure/bullseye": {
+			"second": 0.012399000115692616,
+			"third": 0.011303000152111053
+		},
+		"minecraft:nether/create_full_beacon": {
+			"second": 0.01796399988234043,
+			"third": 0.025123000144958496
+		},
+		"minecraft:adventure/adventuring_time": {
+			"second": 0.019669000059366226,
+			"third": 0.029745999723672867
+		},
+		"minecraft:nether/all_effects": {
+			"second": 0.020117999985814095,
+			"third": 0.03103099949657917
+		},
+		"minecraft:end/elytra": {
+			"second": 0.014995000325143337,
+			"third": 0.01791599951684475
+		},
 		"minecraft:nether/explore_nether": {
 			"second": 0.015337999910116196,
 			"third": 0.018688000738620758
@@ -162,54 +210,6 @@
 		"minecraft:adventure/kill_mob_near_sculk_catalyst": {
 			"second": 0.011694000102579594,
 			"third": 0.011256000027060509
-		},
-		"minecraft:adventure/summon_iron_golem": {
-			"second": 0.012234999798238277,
-			"third": 0.012248000130057335
-		},
-		"minecraft:end/dragon_breath": {
-			"second": 0.01401199959218502,
-			"third": 0.015782000496983528
-		},
-		"minecraft:nether/uneasy_alliance": {
-			"second": 0.018378999084234238,
-			"third": 0.026204999536275864
-		},
-		"minecraft:nether/all_potions": {
-			"second": 0.018797999247908592,
-			"third": 0.02733599953353405
-		},
-		"minecraft:nether/return_to_sender": {
-			"second": 0.012800999917089939,
-			"third": 0.013327999971807003
-		},
-		"minecraft:end/respawn_dragon": {
-			"second": 0.014659999869763851,
-			"third": 0.017173999920487404
-		},
-		"minecraft:nether/netherite_armor": {
-			"second": 0.013392000459134579,
-			"third": 0.014503000304102898
-		},
-		"minecraft:adventure/bullseye": {
-			"second": 0.012399000115692616,
-			"third": 0.011303000152111053
-		},
-		"minecraft:nether/create_full_beacon": {
-			"second": 0.01796399988234043,
-			"third": 0.025123000144958496
-		},
-		"minecraft:adventure/adventuring_time": {
-			"second": 0.019669000059366226,
-			"third": 0.029745999723672867
-		},
-		"minecraft:nether/all_effects": {
-			"second": 0.020117999985814095,
-			"third": 0.03103099949657917
-		},
-		"minecraft:end/elytra": {
-			"second": 0.014995000325143337,
-			"third": 0.01791599951684475
 		}
 	},
 	/* List of entries which define what enchantments would unlock after obtaining certain advancements
