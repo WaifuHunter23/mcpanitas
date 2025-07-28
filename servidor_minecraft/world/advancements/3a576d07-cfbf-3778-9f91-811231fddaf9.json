@@ -1459,6 +1459,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-07-28 02:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-28 02:07:24 +0000"
@@ -1516,6 +1522,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_red": {
     "criteria": {
       "has_stick": "2025-07-28 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-28 02:25:42 +0000"
     },
     "done": true
   },
@@ -1941,7 +1953,7 @@
   },
   "mt:entity_hit_system/on_hit": {
     "criteria": {
-      "not_target": "2025-07-28 02:22:40 +0000"
+      "not_target": "2025-07-28 02:35:21 +0000"
     },
     "done": false
   },
@@ -2050,6 +2062,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
     "criteria": {
       "has_logs": "2025-07-28 02:06:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-07-28 02:27:25 +0000"
     },
     "done": true
   },
@@ -2356,6 +2374,12 @@
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2025-07-28 02:17:16 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-28 02:25:42 +0000"
     },
     "done": true
   },
@@ -2724,6 +2748,12 @@
       "has_mutton": "2025-07-28 02:06:52 +0000"
     },
     "done": true
+  },
+  "mt:entity_hit_system/on_hurt": {
+    "criteria": {
+      "bit3": "2025-07-28 02:35:13 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/nether_mushroom_ladder": {
     "criteria": {
@@ -3420,7 +3450,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-28 02:15:19 +0000",
-      "minecraft:vindicator": "2025-07-28 02:15:58 +0000"
+      "minecraft:vindicator": "2025-07-28 02:15:58 +0000",
+      "minecraft:witch": "2025-07-28 02:34:15 +0000"
     },
     "done": false
   },
@@ -3541,6 +3572,12 @@
   "mcdw:recipes/bows/bow_bubble_burster": {
     "criteria": {
       "has_string": "2025-07-28 02:03:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-28 02:25:42 +0000"
     },
     "done": true
   },
@@ -3894,6 +3931,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-07-28 02:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-28 02:13:33 +0000"
@@ -4094,7 +4137,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "prison_small_1": "2025-07-28 02:15:52 +0000"
+      "prison_small_1": "2025-07-28 02:15:52 +0000",
+      "oak_house_medium_2": "2025-07-28 02:30:05 +0000"
     },
     "done": false
   },
@@ -5501,6 +5545,12 @@
   "betternether:recipes/decorations/anchor_tree_ladder": {
     "criteria": {
       "has_stick": "2025-07-28 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-07-28 02:30:48 +0000"
     },
     "done": true
   },
